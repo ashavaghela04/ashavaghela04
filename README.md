@@ -10,9 +10,8 @@
 ## 👩‍💻 About Me
 - 🎓 A BCA 6th Semester IT Student passionate about building robust and scalable web applications.
 - 💼 Completed Laravel Internship
-- 💻 Working on College Campus Management System
+- 💻 Developed College Campus Management System
 - 📸 Developed Photo Studio Management System
-- 🌱 Currently learning Advanced Laravel & APIs
 - 🎯 Goal: Become Full Stack Developer
 - 💬 Open to Job Opportunities
 
