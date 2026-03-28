@@ -1,10 +1,5 @@
 <h1 align="center">Hi 👋, I'm Asha Vaghela</h1>
 <h3 align="center">BCA Student</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Laravel+Developer;PHP+Developer;Web+Developer;MySQL+Database;Full+Stack+Developer&center=true&width=520&height=45">
-</p>
-
 ---
 
 ## 👩‍💻 About Me
