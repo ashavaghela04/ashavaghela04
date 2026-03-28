@@ -3,14 +3,11 @@
 
 ## 👩‍💻 About Me
 
-> BCA graduate passionate about building **clean, scalable web applications**.
-> Completed a **Laravel internship** and developed 2 real-world projects from scratch.
-> Seeking a full stack or backend developer role where I can grow and make an impact.
 
 - 🎓 BCA Graduate with hands-on full stack experience
 - 🏢 Completed a **Laravel Internship** — real-world backend development
 - 🚀 Built **2 complete projects** independently from design to deployment
-- 🎯 Goal: Full Stack / Backend Developer role
+- 🎯 Goal: Full Stack Developer role
 - 💬 Always open to connecting and collaborating
 
 ---
